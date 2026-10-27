@@ -1,4 +1,3 @@
-````md
 # React Event Handling
 
 ## 📌 Introduction
@@ -653,4 +652,3 @@ After Event Handling, you should learn:
 6. State Lifting
 7. Context API
 8. React Router
-````
