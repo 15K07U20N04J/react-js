@@ -1,4 +1,3 @@
-````md
 # React `useContext` Hook
 
 ## 📌 Introduction
@@ -591,4 +590,3 @@ After `useContext`, you should learn:
 6. Context + `useReducer`
 7. Redux Toolkit
 8. Zustand
-````
