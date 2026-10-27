@@ -1,4 +1,3 @@
-````md
 # React State Lifting (Lifting State Up)
 
 ## 📌 Introduction
@@ -547,4 +546,3 @@ After learning State Lifting, you should learn:
 5. Custom Hooks
 6. `useReducer`
 7. Redux Toolkit
-````
