@@ -1,4 +1,3 @@
-````md
 # React Conditional Rendering
 
 ## 📌 Introduction
@@ -620,4 +619,3 @@ After Conditional Rendering, you should learn:
 5. Controlled Components
 6. `useState`
 7. `useEffect`
-````
