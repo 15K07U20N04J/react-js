@@ -1,4 +1,3 @@
-````md
 # React `useRef` Hook
 
 ## 📌 Introduction
@@ -598,4 +597,3 @@ After `useRef`, you should learn:
 6. Forwarding Refs (`forwardRef`)
 7. `useImperativeHandle`
 8. Context + Reducer
-````
